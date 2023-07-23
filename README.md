@@ -3,7 +3,7 @@
 此專案為課程作業
 
 專案照片
-![image](https://raw.githubusercontent.com/tsouhare/ac-shop-1/src/photo/screenshot.png)
+![image](https://github.com/tsouhare/ac-shop-1/blob/main/src/photo/screenshot.png)
 
 ### install
 
