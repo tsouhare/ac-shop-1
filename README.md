@@ -1,6 +1,6 @@
 # ALPHA Shop I：元件拆分
 
-此專案為課程作業
+此專案為 ALPHA Camp 課程作業
 
 專案照片
 ![image](https://github.com/tsouhare/ac-shop-1/blob/main/src/photo/screenshot.png)
@@ -28,11 +28,11 @@ npm install
 4.開啟專案
 
 ```
-npm run dev
+npm start
 ```
 
 5.出現以下內容表示伺服器已啟動
 
 ```
-Local:   http://localhost:5173/
+Local:   http://localhost:3000/
 ```
